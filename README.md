@@ -15,4 +15,4 @@ I request that developers contact via a ticket in my [discord](https://discord.g
 
 ## License
 
-To be updated.
+You can find the [license](https://github.com/RyanMoodGAMING/StaffChat/blob/master/LICENSE) here: https://github.com/RyanMoodGAMING/StaffChat/blob/master/LICENSE 
