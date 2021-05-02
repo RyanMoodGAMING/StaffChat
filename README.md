@@ -9,7 +9,7 @@ You can download the latest version of the plugin from our [resource page on spi
 ## Developer Controbrution
 
 I request that developers contact via a ticket in my [discord](https://discord.gg/T2qKspyxGR) before submitting a Pull Request with any changes. This is for the following reasons:
- 1. I know what is been added.
+ 1. I know what has been added and you can go into detail on what the feature does.
  2. I know that it is coming from a trustworthy person.
  3. I can add you to the controbution list via your [SpigotMC](https://www.spigotmc.org/) or [Mc-Market](https://mc-market.org/) name.
 
