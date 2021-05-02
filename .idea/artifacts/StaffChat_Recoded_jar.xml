@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StaffChat-Recoded:jar">
+    <output-path>$PROJECT_DIR$/../../../plugins</output-path>
+    <root id="archive" name="StaffChat-Recoded.jar">
+      <element id="module-output" name="StaffChat-Recoded" />
+    </root>
+  </artifact>
+</component>

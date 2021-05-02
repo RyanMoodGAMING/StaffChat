@@ -1,0 +1,16 @@
+name: StaffChat
+version: ${project.version}
+main: me.ryanmoodgaming.staffchat.main.staffchatrecoded.StaffChatRecoded
+api-version: 1.13
+authors: [RyanMoodGAMING]
+description: A simple plugin that allows your staff to communicate togeather.
+
+commands:
+  staffchat:
+    useage: /<command> [message]
+    aliases: [sc, staffc, chatstaff, cs, schat]
+    description: Speak in the staff chat.
+  togglestaffchat:
+    usage: /<command>
+    aliases: [sct, tsc, togglesc, sctoggle, cst, tcs, tschat, tstaffc, staffchattoggle]
+    description: Toggle if you have staff chat enabled.

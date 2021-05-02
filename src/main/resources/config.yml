@@ -1,0 +1,31 @@
+# StaffChat Config Version 1.0
+
+# What will be sent to staff when someone speaks in staffchat.
+# %name% = Player's Username | %message% = The message to be sent
+staffchat_msg: "&6[SC] &c%name% &6> %message%"
+
+# What will be sent to tell the staff memeber that there messages were sent.
+messagesent_msg: "&6[SC] Your message has been sent to the staffchat."
+
+# What will be sent to tell staff members that they have toggled there staffchat.
+toggled_msg:
+  enabled: "&6[SC] Your staff chat has been &aenabled&6."
+  disabled: "&6[SC] Your staff chat has been &cdisabled&6."
+
+# No permission error message.
+noperm_msg: "&c[!] You do not have permission to do this!"
+
+# Command usage message.
+usage_msg: "&c[!] Usage: /staffchat <message>"
+
+# What the player will put at the begining of there message to be sent into staffchat.
+chatsymbol: "#"
+
+# Permission to see the staffchat.
+see_perm: "staffchat.see"
+
+# Permission to talk in the staffchat.
+send_perm: "staffchat.chat"
+
+# Permission to toggle staff chat on and off.
+toggle_perm: "staffchat.toggle"
